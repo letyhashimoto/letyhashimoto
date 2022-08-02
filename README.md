@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @letyhashimoto
-- 👀 I’m interested in technologies, games, gastronomy, photography and comics.
+- 👀 I’m interested in technologies, games and comics.
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate in...I don't decided it yet.
-- 📫 How to reach me: @letyhashimoto in Twitter, Linkedin, Facebook and Instagram.
+- 📫 How to reach me: @letyhashimoto on Twitter and Linkedin.
 
 <!---
 letyhashimoto/letyhashimoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
