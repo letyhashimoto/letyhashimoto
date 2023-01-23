@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @letyhashimoto
+- 👋 Hi, I’m Letícia.
 - 👀 I’m interested in technologies, games and comics.
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning JavaScript, React and othe tecnologies. 
 - 💞️ I’m looking to collaborate in...I don't decided it yet.
 - 📫 How to reach me: @letyhashimoto on Twitter and Linkedin.
 
