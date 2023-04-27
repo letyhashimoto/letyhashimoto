@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Letícia.
 - 👀 I’m interested in technologies, games and comics.
-- 🌱 I’m currently learning JavaScript, React and othe tecnologies. 
-- 💞️ I’m looking to collaborate in...I don't decided it yet.
-- 📫 How to reach me: @letyhashimoto on Twitter and Linkedin.
+- 🌱 I’m currently learning React, Kotlin and other tecnologies. 
+- 💞️ I’m looking to collaborate in open source projects.
+- 📫 How to reach me: My Linkedin: https://www.linkedin.com/in/letyhashimoto/
 
 <!---
 letyhashimoto/letyhashimoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
