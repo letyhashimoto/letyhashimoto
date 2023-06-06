@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Letícia.
 - 👀 I’m interested in technologies, games and comics.
-- 🌱 I’m currently learning React, Kotlin and other tecnologies. 
+- 🌱 I’m currently learning Python. 
 - 💞️ I’m looking to collaborate in open source projects.
 - 📫 How to reach me: My Linkedin: https://www.linkedin.com/in/letyhashimoto/
 
