@@ -9,9 +9,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate in open source projects.
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/letyhashimoto/
             
-
-
-
 ## 🎉My first badges of Hacktoberfest 2023 🏆
 
 [![An image of @letyhashimoto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/letyhashimoto)](https://holopin.io/@letyhashimoto)
@@ -21,12 +18,12 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letyhashimoto)](https://github.com/letyhashimoto/github-readme-stats) --->
 
+## Status
 
-<a href="https://github.com/letyhashimoto/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=letyhashimoto&theme=aura&show_icons=true" />
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyhashimoto&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<a href="https://github.com/letyhashimoto/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyhashimoto" />
-</a><br> 
-
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=letyhashimoto&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
