@@ -1,6 +1,3 @@
-[![Letyhashimoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=letyhashimoto&theme=aura&hide=issues&show_icons=true)](https://github.com/letyhashimoto/github-readme-stats)
-
-
 - 👋 Hi, I’m Letícia.
 - 👀 I’m interested in technologies, games and comics.
 - 🌱 I’m currently learning Python. 
@@ -11,9 +8,9 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-
 ## 🎉My first badges of Hacktoberfest 2023 🏆
 
 [![An image of @letyhashimoto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/letyhashimoto)](https://holopin.io/@letyhashimoto)
+
+
+[![Letyhashimoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=letyhashimoto&theme=aura&hide=issues&show_icons=true)](https://github.com/letyhashimoto/github-readme-stats)
